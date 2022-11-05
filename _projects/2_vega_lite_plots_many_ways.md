@@ -1,5 +1,5 @@
 ---
-name: Hw10 - Project_1
+name: Hw10 - Project_2
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
 description: This is a "showcase" project that uses vega-lite for interactive viz!
