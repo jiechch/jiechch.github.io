@@ -22,6 +22,6 @@ custom_js:
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jiechch/jiechch.github.io/blob/main/python_notebooks/Hw10-proj1.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/jiechch/jiechch.github.io/blob/main/python_notebooks/Hw10-proj_1.ipynb" text="The Analysis" %}
 </div>
 
