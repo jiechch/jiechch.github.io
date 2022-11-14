@@ -73,8 +73,22 @@
 
 </nav>
     <div class="col-lg-10 mx-auto mt-5 markdown-body">
-  <h1 id="example-including-vega-lite">Example including vega-lite</h1>
+  <h1 id="project-description">Project Description</h1>
 
+<ol>
+  <li>
+    <p>The visualization is a scatter plot described that for each agency, the year of buildings they have constructed.</p>
+  </li>
+  <li>
+    <p>I use pandas to read csv data to an external site. I use a color scheme to color variable ‘Year Constructed’. And I add ‘title’ to x and y axis.</p>
+  </li>
+  <li>
+    <p>I use alt.data_transformers.disable_max_rows() to make the data satisfy ‘number of rows larger than maximum’ requirement.</p>
+  </li>
+  <li>
+    <p>I use tooltip to achieve interactive. When I move the mouse to the different color circle, it will show the specific number of the year. Also I can zoom in and zoom out the visualization</p>
+  </li>
+</ol>
 <vegachart schema-url="/assets/json/project_2.json" style="width: 100%"></vegachart>
 
 <!-- these are written in a combo of html and liquid -->
